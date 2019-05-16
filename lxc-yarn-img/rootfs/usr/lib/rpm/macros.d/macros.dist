@@ -1,0 +1,5 @@
+# dist macros.
+
+%fedora                22
+%dist                .fc22
+%fc22                1

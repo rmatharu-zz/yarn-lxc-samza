@@ -1,0 +1,520 @@
+INFO Apr-16 04:13:02 Started hawkey-0.6.2.
+INFO Apr-16 04:13:02 Architecture is: x86_64
+INFO Apr-16 04:13:02 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 04:13:02 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 04:13:02 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 04:13:02 load_ext(): no 2 string for fedora
+INFO Apr-16 04:13:02 no presto metadata available for fedora
+ERROR Apr-16 04:13:02 load_ext(): no 5 string for fedora
+INFO Apr-16 04:13:02 no updateinfo available for fedora
+INFO Apr-16 04:13:03 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 04:13:03 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 04:13:03 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 04:13:03 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 07:14:19 Started hawkey-0.6.2.
+INFO Apr-16 07:14:19 Architecture is: x86_64
+INFO Apr-16 07:14:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 07:14:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 07:14:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 07:14:19 load_ext(): no 2 string for fedora
+INFO Apr-16 07:14:19 no presto metadata available for fedora
+ERROR Apr-16 07:14:19 load_ext(): no 5 string for fedora
+INFO Apr-16 07:14:19 no updateinfo available for fedora
+INFO Apr-16 07:14:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 07:14:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 07:14:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 07:14:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 10:15:19 Started hawkey-0.6.2.
+INFO Apr-16 10:15:19 Architecture is: x86_64
+INFO Apr-16 10:15:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 10:15:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 10:15:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 10:15:19 load_ext(): no 2 string for fedora
+INFO Apr-16 10:15:19 no presto metadata available for fedora
+ERROR Apr-16 10:15:19 load_ext(): no 5 string for fedora
+INFO Apr-16 10:15:19 no updateinfo available for fedora
+INFO Apr-16 10:15:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 10:15:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 10:15:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 10:15:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 13:16:39 Started hawkey-0.6.2.
+INFO Apr-16 13:16:39 Architecture is: x86_64
+INFO Apr-16 13:16:39 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 13:16:39 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 13:16:39 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 13:16:39 load_ext(): no 2 string for fedora
+INFO Apr-16 13:16:39 no presto metadata available for fedora
+ERROR Apr-16 13:16:39 load_ext(): no 5 string for fedora
+INFO Apr-16 13:16:39 no updateinfo available for fedora
+INFO Apr-16 13:16:39 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 13:16:39 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 13:16:39 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 13:16:39 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 16:17:59 Started hawkey-0.6.2.
+INFO Apr-16 16:17:59 Architecture is: x86_64
+INFO Apr-16 16:17:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 16:17:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 16:17:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 16:17:59 load_ext(): no 2 string for fedora
+INFO Apr-16 16:17:59 no presto metadata available for fedora
+ERROR Apr-16 16:17:59 load_ext(): no 5 string for fedora
+INFO Apr-16 16:17:59 no updateinfo available for fedora
+INFO Apr-16 16:17:59 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 16:17:59 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 16:17:59 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 16:17:59 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 19:18:39 Started hawkey-0.6.2.
+INFO Apr-16 19:18:39 Architecture is: x86_64
+INFO Apr-16 19:18:39 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 19:18:39 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 19:18:39 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 19:18:39 load_ext(): no 2 string for fedora
+INFO Apr-16 19:18:39 no presto metadata available for fedora
+ERROR Apr-16 19:18:39 load_ext(): no 5 string for fedora
+INFO Apr-16 19:18:39 no updateinfo available for fedora
+INFO Apr-16 19:18:39 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 19:18:39 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 19:18:39 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 19:18:39 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-16 22:19:39 Started hawkey-0.6.2.
+INFO Apr-16 22:19:39 Architecture is: x86_64
+INFO Apr-16 22:19:39 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-16 22:19:39 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-16 22:19:39 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-16 22:19:39 load_ext(): no 2 string for fedora
+INFO Apr-16 22:19:39 no presto metadata available for fedora
+ERROR Apr-16 22:19:39 load_ext(): no 5 string for fedora
+INFO Apr-16 22:19:39 no updateinfo available for fedora
+INFO Apr-16 22:19:40 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-16 22:19:40 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-16 22:19:40 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-16 22:19:40 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 01:20:39 Started hawkey-0.6.2.
+INFO Apr-17 01:20:39 Architecture is: x86_64
+INFO Apr-17 01:20:39 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 01:20:39 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 01:20:39 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 01:20:39 load_ext(): no 2 string for fedora
+INFO Apr-17 01:20:39 no presto metadata available for fedora
+ERROR Apr-17 01:20:39 load_ext(): no 5 string for fedora
+INFO Apr-17 01:20:39 no updateinfo available for fedora
+INFO Apr-17 01:20:39 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 01:20:39 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 01:20:39 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 01:20:39 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 04:22:19 Started hawkey-0.6.2.
+INFO Apr-17 04:22:19 Architecture is: x86_64
+INFO Apr-17 04:22:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 04:22:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 04:22:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 04:22:19 load_ext(): no 2 string for fedora
+INFO Apr-17 04:22:19 no presto metadata available for fedora
+ERROR Apr-17 04:22:19 load_ext(): no 5 string for fedora
+INFO Apr-17 04:22:19 no updateinfo available for fedora
+INFO Apr-17 04:22:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 04:22:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 04:22:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 04:22:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 07:23:49 Started hawkey-0.6.2.
+INFO Apr-17 07:23:49 Architecture is: x86_64
+INFO Apr-17 07:23:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 07:23:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 07:23:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 07:23:49 load_ext(): no 2 string for fedora
+INFO Apr-17 07:23:49 no presto metadata available for fedora
+ERROR Apr-17 07:23:49 load_ext(): no 5 string for fedora
+INFO Apr-17 07:23:49 no updateinfo available for fedora
+INFO Apr-17 07:23:50 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 07:23:50 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 07:23:50 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 07:23:50 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 10:25:19 Started hawkey-0.6.2.
+INFO Apr-17 10:25:19 Architecture is: x86_64
+INFO Apr-17 10:25:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 10:25:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 10:25:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 10:25:19 load_ext(): no 2 string for fedora
+INFO Apr-17 10:25:19 no presto metadata available for fedora
+ERROR Apr-17 10:25:19 load_ext(): no 5 string for fedora
+INFO Apr-17 10:25:19 no updateinfo available for fedora
+INFO Apr-17 10:25:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 10:25:20 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 10:25:20 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 10:25:20 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 13:26:19 Started hawkey-0.6.2.
+INFO Apr-17 13:26:19 Architecture is: x86_64
+INFO Apr-17 13:26:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 13:26:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 13:26:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 13:26:19 load_ext(): no 2 string for fedora
+INFO Apr-17 13:26:19 no presto metadata available for fedora
+ERROR Apr-17 13:26:19 load_ext(): no 5 string for fedora
+INFO Apr-17 13:26:19 no updateinfo available for fedora
+INFO Apr-17 13:26:20 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 13:26:20 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 13:26:21 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 13:26:21 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 16:27:59 Started hawkey-0.6.2.
+INFO Apr-17 16:27:59 Architecture is: x86_64
+INFO Apr-17 16:27:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 16:27:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 16:27:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 16:27:59 load_ext(): no 2 string for fedora
+INFO Apr-17 16:27:59 no presto metadata available for fedora
+ERROR Apr-17 16:27:59 load_ext(): no 5 string for fedora
+INFO Apr-17 16:27:59 no updateinfo available for fedora
+INFO Apr-17 16:28:00 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 16:28:00 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 16:28:00 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 16:28:01 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 19:28:59 Started hawkey-0.6.2.
+INFO Apr-17 19:28:59 Architecture is: x86_64
+INFO Apr-17 19:28:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 19:28:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 19:28:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 19:28:59 load_ext(): no 2 string for fedora
+INFO Apr-17 19:28:59 no presto metadata available for fedora
+ERROR Apr-17 19:28:59 load_ext(): no 5 string for fedora
+INFO Apr-17 19:28:59 no updateinfo available for fedora
+INFO Apr-17 19:28:59 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 19:28:59 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 19:28:59 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 19:28:59 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-17 22:29:39 Started hawkey-0.6.2.
+INFO Apr-17 22:29:39 Architecture is: x86_64
+INFO Apr-17 22:29:39 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-17 22:29:39 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-17 22:29:39 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-17 22:29:39 load_ext(): no 2 string for fedora
+INFO Apr-17 22:29:39 no presto metadata available for fedora
+ERROR Apr-17 22:29:39 load_ext(): no 5 string for fedora
+INFO Apr-17 22:29:39 no updateinfo available for fedora
+INFO Apr-17 22:29:40 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-17 22:29:40 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-17 22:29:40 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-17 22:29:40 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 01:30:59 Started hawkey-0.6.2.
+INFO Apr-18 01:30:59 Architecture is: x86_64
+INFO Apr-18 01:30:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 01:30:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 01:30:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 01:30:59 load_ext(): no 2 string for fedora
+INFO Apr-18 01:30:59 no presto metadata available for fedora
+ERROR Apr-18 01:30:59 load_ext(): no 5 string for fedora
+INFO Apr-18 01:30:59 no updateinfo available for fedora
+INFO Apr-18 01:30:59 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 01:30:59 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 01:30:59 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 01:30:59 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 04:32:19 Started hawkey-0.6.2.
+INFO Apr-18 04:32:19 Architecture is: x86_64
+INFO Apr-18 04:32:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 04:32:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 04:32:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 04:32:19 load_ext(): no 2 string for fedora
+INFO Apr-18 04:32:19 no presto metadata available for fedora
+ERROR Apr-18 04:32:19 load_ext(): no 5 string for fedora
+INFO Apr-18 04:32:19 no updateinfo available for fedora
+INFO Apr-18 04:32:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 04:32:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 04:32:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 04:32:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 07:32:59 Started hawkey-0.6.2.
+INFO Apr-18 07:32:59 Architecture is: x86_64
+INFO Apr-18 07:32:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 07:32:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 07:32:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 07:32:59 load_ext(): no 2 string for fedora
+INFO Apr-18 07:32:59 no presto metadata available for fedora
+ERROR Apr-18 07:32:59 load_ext(): no 5 string for fedora
+INFO Apr-18 07:32:59 no updateinfo available for fedora
+INFO Apr-18 07:33:00 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 07:33:01 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 07:33:01 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 07:33:01 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 10:33:49 Started hawkey-0.6.2.
+INFO Apr-18 10:33:49 Architecture is: x86_64
+INFO Apr-18 10:33:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 10:33:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 10:33:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 10:33:49 load_ext(): no 2 string for fedora
+INFO Apr-18 10:33:49 no presto metadata available for fedora
+ERROR Apr-18 10:33:49 load_ext(): no 5 string for fedora
+INFO Apr-18 10:33:49 no updateinfo available for fedora
+INFO Apr-18 10:33:50 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 10:33:50 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 10:33:50 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 10:33:51 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 13:34:59 Started hawkey-0.6.2.
+INFO Apr-18 13:34:59 Architecture is: x86_64
+INFO Apr-18 13:34:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 13:34:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 13:34:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 13:34:59 load_ext(): no 2 string for fedora
+INFO Apr-18 13:34:59 no presto metadata available for fedora
+ERROR Apr-18 13:34:59 load_ext(): no 5 string for fedora
+INFO Apr-18 13:34:59 no updateinfo available for fedora
+INFO Apr-18 13:34:59 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 13:34:59 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 13:34:59 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 13:34:59 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 16:36:19 Started hawkey-0.6.2.
+INFO Apr-18 16:36:19 Architecture is: x86_64
+INFO Apr-18 16:36:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 16:36:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 16:36:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 16:36:19 load_ext(): no 2 string for fedora
+INFO Apr-18 16:36:19 no presto metadata available for fedora
+ERROR Apr-18 16:36:19 load_ext(): no 5 string for fedora
+INFO Apr-18 16:36:19 no updateinfo available for fedora
+INFO Apr-18 16:36:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 16:36:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 16:36:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 16:36:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 19:37:19 Started hawkey-0.6.2.
+INFO Apr-18 19:37:19 Architecture is: x86_64
+INFO Apr-18 19:37:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 19:37:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 19:37:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 19:37:19 load_ext(): no 2 string for fedora
+INFO Apr-18 19:37:19 no presto metadata available for fedora
+ERROR Apr-18 19:37:19 load_ext(): no 5 string for fedora
+INFO Apr-18 19:37:19 no updateinfo available for fedora
+INFO Apr-18 19:37:20 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 19:37:20 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 19:37:21 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 19:37:21 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-18 22:38:09 Started hawkey-0.6.2.
+INFO Apr-18 22:38:09 Architecture is: x86_64
+INFO Apr-18 22:38:09 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-18 22:38:09 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-18 22:38:09 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-18 22:38:09 load_ext(): no 2 string for fedora
+INFO Apr-18 22:38:09 no presto metadata available for fedora
+ERROR Apr-18 22:38:09 load_ext(): no 5 string for fedora
+INFO Apr-18 22:38:09 no updateinfo available for fedora
+INFO Apr-18 22:38:09 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-18 22:38:09 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-18 22:38:09 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-18 22:38:09 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 01:38:59 Started hawkey-0.6.2.
+INFO Apr-19 01:38:59 Architecture is: x86_64
+INFO Apr-19 01:38:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 01:38:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 01:38:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 01:38:59 load_ext(): no 2 string for fedora
+INFO Apr-19 01:38:59 no presto metadata available for fedora
+ERROR Apr-19 01:38:59 load_ext(): no 5 string for fedora
+INFO Apr-19 01:38:59 no updateinfo available for fedora
+INFO Apr-19 01:39:00 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 01:39:00 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 01:39:01 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 01:39:01 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 04:40:19 Started hawkey-0.6.2.
+INFO Apr-19 04:40:19 Architecture is: x86_64
+INFO Apr-19 04:40:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 04:40:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 04:40:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 04:40:19 load_ext(): no 2 string for fedora
+INFO Apr-19 04:40:19 no presto metadata available for fedora
+ERROR Apr-19 04:40:19 load_ext(): no 5 string for fedora
+INFO Apr-19 04:40:19 no updateinfo available for fedora
+INFO Apr-19 04:40:20 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 04:40:20 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 04:40:20 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 04:40:20 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 07:41:49 Started hawkey-0.6.2.
+INFO Apr-19 07:41:49 Architecture is: x86_64
+INFO Apr-19 07:41:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 07:41:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 07:41:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 07:41:49 load_ext(): no 2 string for fedora
+INFO Apr-19 07:41:49 no presto metadata available for fedora
+ERROR Apr-19 07:41:49 load_ext(): no 5 string for fedora
+INFO Apr-19 07:41:49 no updateinfo available for fedora
+INFO Apr-19 07:41:49 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 07:41:49 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 07:41:49 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 07:41:49 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 10:43:09 Started hawkey-0.6.2.
+INFO Apr-19 10:43:09 Architecture is: x86_64
+INFO Apr-19 10:43:09 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 10:43:09 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 10:43:09 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 10:43:09 load_ext(): no 2 string for fedora
+INFO Apr-19 10:43:09 no presto metadata available for fedora
+ERROR Apr-19 10:43:09 load_ext(): no 5 string for fedora
+INFO Apr-19 10:43:09 no updateinfo available for fedora
+INFO Apr-19 10:43:10 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 10:43:10 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 10:43:10 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 10:43:10 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 13:44:05 Started hawkey-0.6.2.
+INFO Apr-19 13:44:05 Architecture is: x86_64
+INFO Apr-19 13:44:05 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 13:44:05 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 13:44:05 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 13:44:05 load_ext(): no 2 string for fedora
+INFO Apr-19 13:44:05 no presto metadata available for fedora
+ERROR Apr-19 13:44:05 load_ext(): no 5 string for fedora
+INFO Apr-19 13:44:05 no updateinfo available for fedora
+INFO Apr-19 13:44:06 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 13:44:06 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 13:44:06 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 13:44:06 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 16:44:29 Started hawkey-0.6.2.
+INFO Apr-19 16:44:29 Architecture is: x86_64
+INFO Apr-19 16:44:29 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 16:44:29 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 16:44:29 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 16:44:29 load_ext(): no 2 string for fedora
+INFO Apr-19 16:44:29 no presto metadata available for fedora
+ERROR Apr-19 16:44:29 load_ext(): no 5 string for fedora
+INFO Apr-19 16:44:29 no updateinfo available for fedora
+INFO Apr-19 16:44:30 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 16:44:30 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 16:44:30 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 16:44:30 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 19:45:29 Started hawkey-0.6.2.
+INFO Apr-19 19:45:29 Architecture is: x86_64
+INFO Apr-19 19:45:29 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 19:45:29 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 19:45:29 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 19:45:29 load_ext(): no 2 string for fedora
+INFO Apr-19 19:45:29 no presto metadata available for fedora
+ERROR Apr-19 19:45:29 load_ext(): no 5 string for fedora
+INFO Apr-19 19:45:29 no updateinfo available for fedora
+INFO Apr-19 19:45:29 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 19:45:29 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 19:45:29 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 19:45:29 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-19 22:46:19 Started hawkey-0.6.2.
+INFO Apr-19 22:46:19 Architecture is: x86_64
+INFO Apr-19 22:46:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-19 22:46:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-19 22:46:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-19 22:46:19 load_ext(): no 2 string for fedora
+INFO Apr-19 22:46:19 no presto metadata available for fedora
+ERROR Apr-19 22:46:19 load_ext(): no 5 string for fedora
+INFO Apr-19 22:46:19 no updateinfo available for fedora
+INFO Apr-19 22:46:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-19 22:46:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-19 22:46:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-19 22:46:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 01:47:19 Started hawkey-0.6.2.
+INFO Apr-20 01:47:19 Architecture is: x86_64
+INFO Apr-20 01:47:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 01:47:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 01:47:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 01:47:19 load_ext(): no 2 string for fedora
+INFO Apr-20 01:47:19 no presto metadata available for fedora
+ERROR Apr-20 01:47:19 load_ext(): no 5 string for fedora
+INFO Apr-20 01:47:19 no updateinfo available for fedora
+INFO Apr-20 01:47:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 01:47:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 01:47:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 01:47:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 04:48:19 Started hawkey-0.6.2.
+INFO Apr-20 04:48:19 Architecture is: x86_64
+INFO Apr-20 04:48:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 04:48:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 04:48:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 04:48:19 load_ext(): no 2 string for fedora
+INFO Apr-20 04:48:19 no presto metadata available for fedora
+ERROR Apr-20 04:48:19 load_ext(): no 5 string for fedora
+INFO Apr-20 04:48:19 no updateinfo available for fedora
+INFO Apr-20 04:48:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 04:48:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 04:48:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 04:48:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 07:48:49 Started hawkey-0.6.2.
+INFO Apr-20 07:48:49 Architecture is: x86_64
+INFO Apr-20 07:48:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 07:48:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 07:48:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 07:48:49 load_ext(): no 2 string for fedora
+INFO Apr-20 07:48:49 no presto metadata available for fedora
+ERROR Apr-20 07:48:49 load_ext(): no 5 string for fedora
+INFO Apr-20 07:48:49 no updateinfo available for fedora
+INFO Apr-20 07:48:50 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 07:48:51 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 07:48:51 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 07:48:51 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 10:49:49 Started hawkey-0.6.2.
+INFO Apr-20 10:49:49 Architecture is: x86_64
+INFO Apr-20 10:49:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 10:49:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 10:49:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 10:49:49 load_ext(): no 2 string for fedora
+INFO Apr-20 10:49:49 no presto metadata available for fedora
+ERROR Apr-20 10:49:49 load_ext(): no 5 string for fedora
+INFO Apr-20 10:49:49 no updateinfo available for fedora
+INFO Apr-20 10:49:50 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 10:49:50 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 10:49:50 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 10:49:50 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 13:50:49 Started hawkey-0.6.2.
+INFO Apr-20 13:50:49 Architecture is: x86_64
+INFO Apr-20 13:50:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 13:50:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 13:50:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 13:50:49 load_ext(): no 2 string for fedora
+INFO Apr-20 13:50:49 no presto metadata available for fedora
+ERROR Apr-20 13:50:49 load_ext(): no 5 string for fedora
+INFO Apr-20 13:50:49 no updateinfo available for fedora
+INFO Apr-20 13:50:50 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 13:50:51 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 13:50:51 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 13:50:51 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 16:51:35 Started hawkey-0.6.2.
+INFO Apr-20 16:51:35 Architecture is: x86_64
+INFO Apr-20 16:51:35 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 16:51:35 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 16:51:35 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 16:51:35 load_ext(): no 2 string for fedora
+INFO Apr-20 16:51:35 no presto metadata available for fedora
+ERROR Apr-20 16:51:35 load_ext(): no 5 string for fedora
+INFO Apr-20 16:51:35 no updateinfo available for fedora
+INFO Apr-20 16:51:37 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 16:51:37 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 16:51:37 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 16:51:37 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 19:52:19 Started hawkey-0.6.2.
+INFO Apr-20 19:52:19 Architecture is: x86_64
+INFO Apr-20 19:52:19 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 19:52:19 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 19:52:19 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 19:52:19 load_ext(): no 2 string for fedora
+INFO Apr-20 19:52:19 no presto metadata available for fedora
+ERROR Apr-20 19:52:19 load_ext(): no 5 string for fedora
+INFO Apr-20 19:52:19 no updateinfo available for fedora
+INFO Apr-20 19:52:19 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 19:52:19 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 19:52:19 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 19:52:19 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-20 22:52:49 Started hawkey-0.6.2.
+INFO Apr-20 22:52:49 Architecture is: x86_64
+INFO Apr-20 22:52:49 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-20 22:52:49 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-20 22:52:49 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-20 22:52:49 load_ext(): no 2 string for fedora
+INFO Apr-20 22:52:49 no presto metadata available for fedora
+ERROR Apr-20 22:52:49 load_ext(): no 5 string for fedora
+INFO Apr-20 22:52:49 no updateinfo available for fedora
+INFO Apr-20 22:52:49 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-20 22:52:49 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-20 22:52:49 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-20 22:52:49 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx
+INFO Apr-21 01:53:59 Started hawkey-0.6.2.
+INFO Apr-21 01:53:59 Architecture is: x86_64
+INFO Apr-21 01:53:59 using cached rpmdb (0x2a9f01d2e1adb28467270db3d57a91dc4f124e882905391c159a456caff03d19)
+INFO Apr-21 01:53:59 using cached fedora (0x0c3ef6dec1c4b2c848f69698ae877d7b23e2d3d909a055cb37a86d1f82f023a2)
+INFO Apr-21 01:53:59 load_ext: using cache file: /var/cache/dnf/fedora-filenames.solvx
+ERROR Apr-21 01:53:59 load_ext(): no 2 string for fedora
+INFO Apr-21 01:53:59 no presto metadata available for fedora
+ERROR Apr-21 01:53:59 load_ext(): no 5 string for fedora
+INFO Apr-21 01:53:59 no updateinfo available for fedora
+INFO Apr-21 01:54:00 using cached updates (0xff5981930ba89390e4081ef06158fa3be2c20152eded6aacdc89afb7c11cb089)
+INFO Apr-21 01:54:00 load_ext: using cache file: /var/cache/dnf/updates-filenames.solvx
+INFO Apr-21 01:54:00 load_ext: using cache file: /var/cache/dnf/updates-presto.solvx
+INFO Apr-21 01:54:00 load_ext: using cache file: /var/cache/dnf/updates-updateinfo.solvx

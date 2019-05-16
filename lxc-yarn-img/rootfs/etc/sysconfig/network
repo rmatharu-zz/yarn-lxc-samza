@@ -1,0 +1,2 @@
+NETWORKING=yes
+HOSTNAME=lxc-yarn-img.linkedin.biz

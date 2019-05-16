@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:50:31 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492631009
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492631225
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.6.2 from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/org/slf4j/slf4j-parent/1.6.2/slf4j-parent-1.6.2.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492631459
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492631449
+file\:///root/.m2/repository/.lastUpdated=1548492630788
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

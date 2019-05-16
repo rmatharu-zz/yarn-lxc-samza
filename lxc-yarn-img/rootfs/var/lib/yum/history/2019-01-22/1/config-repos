@@ -1,0 +1,130 @@
+[fedora]
+async = True
+bandwidth = 0
+base_persistdir = /run/install/var/lib/yum/repos/x86_64/22
+baseurl = http://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/22/Everything/x86_64/os/,
+   http://mirrors.kernel.org/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/,
+   https://mirrors.rit.edu/fedora/archive/fedora/linux/releases/22/Everything/x86_64/os/,
+   https://pubmirror2.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/,
+   https://pubmirror1.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/,
+   https://dl.fedoraproject.org/pub/archive/fedora/linux/releases/22/Everything/x86_64/os/
+cache = 0
+cachedir = /run/install/var/cache/yum/x86_64/22/fedora
+check_config_file_age = True
+cost = 1000
+deltarpm_metadata_percentage = 100
+deltarpm_percentage = 
+enabled = True
+enablegroups = True
+exclude = 
+failovermethod = priority
+gpgcadir = /run/install/var/lib/yum/repos/x86_64/22/fedora/gpgcadir
+gpgcakey = 
+gpgcheck = True
+gpgdir = /run/install/var/lib/yum/repos/x86_64/22/fedora/gpgdir
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-22-x86_64
+hdrdir = /run/install/var/cache/yum/x86_64/22/fedora/headers
+http_caching = all
+includepkgs = 
+ip_resolve = 
+keepalive = True
+keepcache = False
+mddownloadpolicy = sqlite
+mdpolicy = group:small
+mediaid = 
+metadata_expire = 21600
+metadata_expire_filter = read-only:present
+metalink = https://mirrors.fedoraproject.org/metalink?repo=fedora-22&arch=x86_64
+metalink_filename = /run/install/var/cache/yum/x86_64/22/fedora/metalink.xml
+minrate = 0
+mirrorlist = 
+mirrorlist_expire = 86400
+name = Fedora 22 - x86_64
+old_base_cache_dir = /var/cache/yum/x86_64/22
+password = 
+persistdir = /run/install/var/lib/yum/repos/x86_64/22/fedora
+pkgdir = /run/install/var/cache/yum/x86_64/22/fedora/packages
+proxy = False
+proxy_dict = 
+proxy_password = 
+proxy_username = 
+repo_gpgcheck = False
+retries = 10
+skip_if_unavailable = False
+ssl_check_cert_permissions = True
+sslcacert = 
+sslclientcert = 
+sslclientkey = 
+sslverify = True
+throttle = 0
+timeout = 30.0
+ui_id = fedora/22
+ui_repoid_vars = releasever,
+   basearch
+username = 
+
+[updates]
+async = True
+bandwidth = 0
+base_persistdir = /run/install/var/lib/yum/repos/x86_64/22
+baseurl = http://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/updates/22/x86_64/,
+   https://mirrors.rit.edu/fedora/archive/fedora/linux/updates/22/x86_64/,
+   http://mirrors.kernel.org/fedora-buffet/archive/fedora/linux/updates/22/x86_64/,
+   https://pubmirror2.math.uh.edu/fedora-buffet/archive/fedora/linux/updates/22/x86_64/,
+   https://pubmirror1.math.uh.edu/fedora-buffet/archive/fedora/linux/updates/22/x86_64/,
+   https://dl.fedoraproject.org/pub/archive/fedora/linux/updates/22/x86_64/
+cache = 0
+cachedir = /run/install/var/cache/yum/x86_64/22/updates
+check_config_file_age = True
+cost = 1000
+deltarpm_metadata_percentage = 100
+deltarpm_percentage = 
+enabled = True
+enablegroups = True
+exclude = 
+failovermethod = priority
+gpgcadir = /run/install/var/lib/yum/repos/x86_64/22/updates/gpgcadir
+gpgcakey = 
+gpgcheck = True
+gpgdir = /run/install/var/lib/yum/repos/x86_64/22/updates/gpgdir
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-22-x86_64
+hdrdir = /run/install/var/cache/yum/x86_64/22/updates/headers
+http_caching = all
+includepkgs = 
+ip_resolve = 
+keepalive = True
+keepcache = False
+mddownloadpolicy = sqlite
+mdpolicy = group:small
+mediaid = 
+metadata_expire = 21600
+metadata_expire_filter = read-only:present
+metalink = https://mirrors.fedoraproject.org/metalink?repo=updates-released-f22&arch=x86_64
+metalink_filename = /run/install/var/cache/yum/x86_64/22/updates/metalink.xml
+minrate = 0
+mirrorlist = 
+mirrorlist_expire = 86400
+name = Fedora 22 - x86_64 - Updates
+old_base_cache_dir = /var/cache/yum/x86_64/22
+password = 
+persistdir = /run/install/var/lib/yum/repos/x86_64/22/updates
+pkgdir = /run/install/var/cache/yum/x86_64/22/updates/packages
+proxy = False
+proxy_dict = 
+proxy_password = 
+proxy_username = 
+repo_gpgcheck = False
+retries = 10
+skip_if_unavailable = False
+ssl_check_cert_permissions = True
+sslcacert = 
+sslclientcert = 
+sslclientkey = 
+sslverify = True
+throttle = 0
+timeout = 30.0
+ui_id = updates/22
+ui_repoid_vars = releasever,
+   basearch
+username = 
+

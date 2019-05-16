@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:49:09 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492548658
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492548885
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact io.netty\:netty\:pom\:3.6.2.Final from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/io/netty/netty/3.6.2.Final/netty-3.6.2.Final.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492549126
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492549113
+file\:///root/.m2/repository/.lastUpdated=1548492548427
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

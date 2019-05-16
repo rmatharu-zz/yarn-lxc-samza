@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:48:30 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492510013
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492510230
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact commons-el\:commons-el\:pom\:1.0 from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/commons-el/commons-el/1.0/commons-el-1.0.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492510467
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492510460
+file\:///root/.m2/repository/.lastUpdated=1548492509782
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

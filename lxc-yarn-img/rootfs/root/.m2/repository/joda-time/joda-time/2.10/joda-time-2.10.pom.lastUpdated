@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:50:14 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492613618
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492613841
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.10 from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/joda-time/joda-time/2.10/joda-time-2.10.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492614087
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492614074
+file\:///root/.m2/repository/.lastUpdated=1548492613391
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

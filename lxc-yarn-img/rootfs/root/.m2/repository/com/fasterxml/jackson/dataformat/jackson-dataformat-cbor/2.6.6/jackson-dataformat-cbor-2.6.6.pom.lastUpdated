@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:50:20 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492619775
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492619994
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-cbor\:pom\:2.6.6 from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.6.6/jackson-dataformat-cbor-2.6.6.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492620228
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492620220
+file\:///root/.m2/repository/.lastUpdated=1548492619545
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
