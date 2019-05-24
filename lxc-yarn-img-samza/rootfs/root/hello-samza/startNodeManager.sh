@@ -17,4 +17,5 @@
 # under the License.
 
 export JAVA_HOME="/etc/alternatives/java_sdk_1.8.0_openjdk"
+sleep 5
 /root/hello-samza/bin/grid start yarn
