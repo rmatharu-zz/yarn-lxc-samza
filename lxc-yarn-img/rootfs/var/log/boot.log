@@ -58,3 +58,4 @@ Apr 15 22:10:48 test10 NET[432]: /usr/sbin/dhclient-script : updated /etc/resolv
 Apr 15 22:11:31 test10 NET[429]: /usr/sbin/dhclient-script : updated /etc/resolv.conf
 May 16 10:10:42 lxc-yarn-img NET[421]: /usr/sbin/dhclient-script : updated /etc/resolv.conf
 May 16 10:29:16 lxc-yarn-img NET[420]: /usr/sbin/dhclient-script : updated /etc/resolv.conf
+May 16 12:11:16 lxc-yarn-img NET[425]: /usr/sbin/dhclient-script : updated /etc/resolv.conf

@@ -1,8 +1,8 @@
 logrotate state -- version 2
-"/var/log/dnf.librepo.log" 2019-5-13-3:16:2
 "/var/log/yum.log" 2019-1-26-10:0:0
-"/var/log/dnf.rpm.log" 2019-5-13-3:16:2
+"/var/log/dnf.librepo.log" 2019-5-13-3:16:2
 "/var/log/dnf.plugin.log" 2019-1-26-10:0:0
+"/var/log/dnf.rpm.log" 2019-5-13-3:16:2
 "/var/log/hawkey.log" 2019-5-13-3:16:2
 "/var/log/dnf.log" 2019-5-13-3:16:2
 "/var/log/wtmp" 2019-1-26-10:0:0

@@ -748,3 +748,10 @@ ls -al
 ls -al .samza/
 rm -rf .samza/download/hadoop-2.6.1.tar.gz 
 exit
+clear
+ps ax
+sudo passwd root
+passwd
+exit
+vim /root/.ssh/authorized_keys 
+exit

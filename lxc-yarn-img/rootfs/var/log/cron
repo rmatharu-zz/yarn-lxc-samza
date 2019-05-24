@@ -239,3 +239,19 @@ May 16 10:10:32 lxc-yarn-img crond[101]: (CRON) INFO (running with inotify suppo
 May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (Syslog will be used instead of sendmail.)
 May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 14% if used.)
 May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (running with inotify support)
+May 16 11:01:01 lxc-yarn-img CROND[622]: (root) CMD (run-parts /etc/cron.hourly)
+May 16 11:01:01 lxc-yarn-img run-parts[622]: (/etc/cron.hourly) starting 0anacron
+May 16 11:01:01 lxc-yarn-img anacron[631]: Anacron started on 2019-05-16
+May 16 11:01:01 lxc-yarn-img anacron[631]: Will run job `cron.daily' in 19 min.
+May 16 11:01:01 lxc-yarn-img anacron[631]: Jobs will be executed sequentially
+May 16 11:01:01 lxc-yarn-img run-parts[633]: (/etc/cron.hourly) finished 0anacron
+May 16 11:20:01 lxc-yarn-img anacron[631]: Job `cron.daily' started
+May 16 11:20:01 lxc-yarn-img run-parts[634]: (/etc/cron.daily) starting logrotate
+May 16 11:20:01 lxc-yarn-img run-parts[642]: (/etc/cron.daily) finished logrotate
+May 16 11:20:01 lxc-yarn-img run-parts[634]: (/etc/cron.daily) starting man-db.cron
+May 16 11:20:02 lxc-yarn-img run-parts[653]: (/etc/cron.daily) finished man-db.cron
+May 16 11:20:02 lxc-yarn-img anacron[631]: Job `cron.daily' terminated
+May 16 11:20:02 lxc-yarn-img anacron[631]: Normal exit (1 job run)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (Syslog will be used instead of sendmail.)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 45% if used.)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (running with inotify support)

@@ -1672,3 +1672,394 @@ May 16 10:34:08 lxc-yarn-img systemd: Received SIGRTMIN+24 from PID 594 (kill).
 May 16 10:34:08 lxc-yarn-img systemd: Stopped User Manager for UID 0.
 May 16 10:34:08 lxc-yarn-img systemd: Removed slice user-0.slice.
 May 16 10:34:08 lxc-yarn-img systemd: Stopping user-0.slice.
+May 16 10:49:18 lxc-yarn-img systemd: nodeManager.service: main process exited, code=exited, status=255/n/a
+May 16 10:49:18 lxc-yarn-img systemd: Unit nodeManager.service entered failed state.
+May 16 10:49:18 lxc-yarn-img systemd: nodeManager.service failed.
+May 16 10:58:28 lxc-yarn-img dhclient[423]: DHCPREQUEST on eth0 to 192.168.122.1 port 67 (xid=0x8f4f9c1a)
+May 16 10:58:28 lxc-yarn-img dhclient[423]: DHCPACK from 192.168.122.1 (xid=0x8f4f9c1a)
+May 16 10:58:30 lxc-yarn-img dhclient[423]: bound to 192.168.122.34 -- renewal in 1299 seconds.
+May 16 11:20:09 lxc-yarn-img dhclient[423]: DHCPREQUEST on eth0 to 192.168.122.1 port 67 (xid=0x8f4f9c1a)
+May 16 11:20:09 lxc-yarn-img dhclient[423]: DHCPACK from 192.168.122.1 (xid=0x8f4f9c1a)
+May 16 11:20:11 lxc-yarn-img dhclient[423]: bound to 192.168.122.34 -- renewal in 1285 seconds.
+May 16 11:29:21 lxc-yarn-img systemd: Starting dnf makecache...
+May 16 11:29:21 lxc-yarn-img dnf: cachedir: /var/cache/dnf
+May 16 11:29:21 lxc-yarn-img dnf: Loaded plugins: migrate
+May 16 11:29:21 lxc-yarn-img dnf: DNF version: 1.1.6
+May 16 11:29:21 lxc-yarn-img dnf: Making cache files for all metadata files.
+May 16 11:29:21 lxc-yarn-img dnf: Metadata cache refreshed recently.
+May 16 11:29:22 lxc-yarn-img systemd: Started dnf makecache.
+May 16 11:39:18 lxc-yarn-img rsyslogd: [origin software="rsyslogd" swVersion="8.8.0" x-pid="78" x-info="http://www.rsyslog.com"] exiting on signal 15.
+May 16 12:11:06 lxc-yarn-img rsyslogd: [origin software="rsyslogd" swVersion="8.8.0" x-pid="76" x-info="http://www.rsyslog.com"] start
+May 16 11:39:18 lxc-yarn-img systemd: Received SIGPWR.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Multi-User System.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Multi-User System.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Command Scheduler...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Login Prompts.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Login Prompts.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping D-Bus System Message Bus...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Console Getty...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Getty on tty1...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping System Logging Service...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Sound Card.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Sound Card.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Login Service...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Getty on tty4...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Network is Online.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Network is Online.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Timers.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Timers.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Daily Cleanup of Temporary Directories.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Daily Cleanup of Temporary Directories.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Getty on tty2...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping LSB: Bring up/down networking...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping OpenSSH server daemon...
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Getty on tty3...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped System Logging Service.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped D-Bus System Message Bus.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Login Service.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped OpenSSH server daemon.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Console Getty.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Getty on tty4.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Getty on tty2.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Getty on tty1.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Command Scheduler.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Getty on tty3.
+May 16 11:39:18 lxc-yarn-img systemd: Removed slice system-getty.slice.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping system-getty.slice.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Permit User Sessions...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Permit User Sessions.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Remote File Systems.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Remote File Systems.
+May 16 11:39:18 lxc-yarn-img network: Shutting down interface eth0:  [  OK  ]
+May 16 11:39:18 lxc-yarn-img network: Shutting down loopback interface:  [  OK  ]
+May 16 11:39:18 lxc-yarn-img systemd: Stopped LSB: Bring up/down networking.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Basic System.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Basic System.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped dnf makecache timer.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping dnf makecache timer.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Sockets.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Sockets.
+May 16 11:39:18 lxc-yarn-img systemd: Closed D-Bus System Message Bus Socket.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping D-Bus System Message Bus Socket.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target System Initialization.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping System Initialization.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Update UTMP about System Boot/Shutdown...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Encrypted Volumes.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Encrypted Volumes.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Swap.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Swap.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Load/Save Random Seed...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Apply Kernel Variables.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Apply Kernel Variables...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Paths.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Paths.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Forward Password Requests to Wall Directory Watch.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Forward Password Requests to Wall Directory Watch.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Dispatch Password Requests to Console Directory Watch.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Dispatch Password Requests to Console Directory Watch.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Slices.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Slices.
+May 16 11:39:18 lxc-yarn-img systemd: Removed slice User and Session Slice.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping User and Session Slice.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Update UTMP about System Boot/Shutdown.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Load/Save Random Seed.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Create Volatile Files and Directories.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Create Volatile Files and Directories...
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Local File Systems.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Local File Systems.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Configure read-only root support.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Configure read-only root support...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /dev/lxc/tty2...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /dev/lxc/console...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /lxc-shared...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /dev/lxc/tty4...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /dev/lxc/tty1...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting Temporary Directory...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounting /dev/lxc/tty3...
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /dev/lxc/tty2.
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /lxc-shared.
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /dev/lxc/console.
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /dev/lxc/tty1.
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted Temporary Directory.
+May 16 11:39:18 lxc-yarn-img systemd: Reached target Unmount All Filesystems.
+May 16 11:39:18 lxc-yarn-img systemd: Starting Unmount All Filesystems.
+May 16 11:39:18 lxc-yarn-img systemd: Stopped target Local File Systems (Pre).
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Local File Systems (Pre).
+May 16 11:39:18 lxc-yarn-img systemd: Stopped Remount Root and Kernel File Systems.
+May 16 11:39:18 lxc-yarn-img systemd: Stopping Remount Root and Kernel File Systems...
+May 16 11:39:18 lxc-yarn-img systemd: Reached target Shutdown.
+May 16 11:39:18 lxc-yarn-img systemd: Starting Shutdown.
+May 16 11:39:18 lxc-yarn-img systemd: Reached target Final Step.
+May 16 11:39:18 lxc-yarn-img systemd: Starting Final Step.
+May 16 11:39:18 lxc-yarn-img systemd: Starting Halt...
+May 16 11:39:18 lxc-yarn-img systemd: dev-lxc-tty4.mount mount process exited, code=exited status=32
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /dev/lxc/tty4.
+May 16 11:39:18 lxc-yarn-img systemd: Unit dev-lxc-tty4.mount entered failed state.
+May 16 11:39:18 lxc-yarn-img systemd: dev-lxc-tty3.mount mount process exited, code=exited status=32
+May 16 11:39:18 lxc-yarn-img systemd: Unmounted /dev/lxc/tty3.
+May 16 11:39:18 lxc-yarn-img systemd: Unit dev-lxc-tty3.mount entered failed state.
+May 16 11:39:18 lxc-yarn-img umount: umount: /dev/lxc/tty3: not mounted
+May 16 11:39:18 lxc-yarn-img umount: umount: /dev/lxc/tty4: not mounted
+May 16 11:39:18 lxc-yarn-img systemd: Shutting down.
+May 16 11:39:18 lxc-yarn-img journal: Journal stopped
+May 16 12:11:06 lxc-yarn-img journal: Runtime journal (/run/log/journal/) is currently using 8.0M.#012Maximum allowed usage is set to 3.1G.#012Leaving at least 4.0G free (of currently available 31.3G of space).#012Enforced usage limit is thus 3.1G.
+May 16 12:11:06 lxc-yarn-img journal: Permanent journal (/var/log/journal/) is currently using 86.3M.#012Maximum allowed usage is set to 4.0G.#012Leaving at least 4.0G free (of currently available 132.0G of space).#012Enforced usage limit is thus 4.0G.
+May 16 12:11:06 lxc-yarn-img journal: Time spent on flushing to /var is 1.482ms for 2 entries.
+May 16 12:11:06 lxc-yarn-img journal: Journal started
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-arptables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-ip6tables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write 'fq_codel' to 'net/core/default_qdisc', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'kernel/yama/ptrace_scope', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-iptables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: starting version 219
+May 16 12:11:06 lxc-yarn-img systemd: Starting Flush Journal to Persistent Storage...
+May 16 12:11:06 lxc-yarn-img systemd: Started Configure read-only root support.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Load/Save Random Seed...
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Local File Systems.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Local File Systems.
+May 16 12:11:06 lxc-yarn-img systemd: Started Commit a transient machine-id on disk.
+May 16 12:11:06 lxc-yarn-img systemd: Started Mark the need to relabel after reboot.
+May 16 12:11:06 lxc-yarn-img systemd: Started Rebuild Journal Catalog.
+May 16 12:11:06 lxc-yarn-img systemd: Started Update is Completed.
+May 16 12:11:06 lxc-yarn-img systemd: Started Import network configuration from initramfs.
+May 16 12:11:06 lxc-yarn-img systemd: Started Relabel all filesystems, if necessary.
+May 16 12:11:06 lxc-yarn-img systemd: Started Load/Save Random Seed.
+May 16 12:11:06 lxc-yarn-img systemd: Started Flush Journal to Persistent Storage.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Create Volatile Files and Directories...
+May 16 12:11:06 lxc-yarn-img systemd: Mounted Configuration File System.
+May 16 12:11:06 lxc-yarn-img systemd: Started Create Volatile Files and Directories.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Update UTMP about System Boot/Shutdown...
+May 16 12:11:06 lxc-yarn-img systemd: Started Update UTMP about System Boot/Shutdown.
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/dri/card0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Sound Card.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Sound Card.
+May 16 12:11:06 lxc-yarn-img systemd-udevd: inotify_add_watch(7, /dev/nvme0n1, 10) failed: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: error: /dev/nvme0n1: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/pcmC1D3p: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/pcmC1D7p: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/controlC1: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/dri/renderD128: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: error: /dev/nvme0n1p2: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: inotify_add_watch(7, /dev/nvme0n1p2, 10) failed: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/hwC1D0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: error: /dev/nvme0n1p1: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: inotify_add_watch(7, /dev/nvme0n1p1, 10) failed: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/hwC0D0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/pcmC0D0c: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/pcmC0D0p: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/pcmC0D2c: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/controlC0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/sr0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/sg0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd: Started udev Coldplug all Devices.
+May 16 12:11:06 lxc-yarn-img systemd: Reached target System Initialization.
+May 16 12:11:06 lxc-yarn-img systemd: Starting System Initialization.
+May 16 12:11:06 lxc-yarn-img systemd: Started Daily Cleanup of Temporary Directories.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Daily Cleanup of Temporary Directories.
+May 16 12:11:06 lxc-yarn-img systemd: Started dnf makecache timer.
+May 16 12:11:06 lxc-yarn-img systemd: Starting dnf makecache timer.
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Timers.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Timers.
+May 16 12:11:06 lxc-yarn-img systemd: Listening on D-Bus System Message Bus Socket.
+May 16 12:11:06 lxc-yarn-img systemd: Starting D-Bus System Message Bus Socket.
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Sockets.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Sockets.
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Basic System.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Basic System.
+May 16 12:11:06 lxc-yarn-img systemd: Starting System Logging Service...
+May 16 12:11:06 lxc-yarn-img systemd: Starting LSB: Bring up/down networking...
+May 16 12:11:06 lxc-yarn-img systemd: Starting Permit User Sessions...
+May 16 12:11:06 lxc-yarn-img systemd: Starting nodeManager...
+May 16 12:11:06 lxc-yarn-img systemd: Started OpenSSH Server Key Generation.
+May 16 12:11:06 lxc-yarn-img systemd: Started OpenSSH server daemon.
+May 16 12:11:06 lxc-yarn-img systemd: Starting OpenSSH server daemon...
+May 16 12:11:06 lxc-yarn-img systemd: Starting Login Service...
+May 16 12:11:06 lxc-yarn-img systemd: Started D-Bus System Message Bus.
+May 16 12:11:06 lxc-yarn-img dbus[84]: [system] Successfully activated service 'org.freedesktop.systemd1'
+May 16 12:11:06 lxc-yarn-img systemd: Starting D-Bus System Message Bus...
+May 16 12:11:06 lxc-yarn-img systemd: Started System Logging Service.
+May 16 12:11:06 lxc-yarn-img systemd: Started Permit User Sessions.
+May 16 12:11:06 lxc-yarn-img systemd: Starting dnf makecache...
+May 16 12:11:06 lxc-yarn-img systemd-logind: Failed to open event1: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-logind: Failed to open event0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-logind: New seat seat0.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Cleanup of Temporary Directories...
+May 16 12:11:06 lxc-yarn-img systemd: Started Getty on tty3.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Getty on tty3...
+May 16 12:11:06 lxc-yarn-img systemd: Started Getty on tty4.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Getty on tty4...
+May 16 12:11:06 lxc-yarn-img systemd: Started Console Getty.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Console Getty...
+May 16 12:11:06 lxc-yarn-img systemd: Started Command Scheduler.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Command Scheduler...
+May 16 12:11:06 lxc-yarn-img systemd: Started Getty on tty1.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Getty on tty1...
+May 16 12:11:06 lxc-yarn-img systemd: Started Getty on tty2.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Getty on tty2...
+May 16 12:11:06 lxc-yarn-img systemd: Reached target Login Prompts.
+May 16 12:11:06 lxc-yarn-img systemd: Starting Login Prompts.
+May 16 12:11:06 lxc-yarn-img systemd: Started Login Service.
+May 16 12:11:06 lxc-yarn-img startNodeManager.sh: EXECUTING: start yarn
+May 16 12:11:06 lxc-yarn-img systemd: Started Cleanup of Temporary Directories.
+May 16 12:11:06 lxc-yarn-img startNodeManager.sh: starting nodemanager, logging to /root/hello-samza/deploy/yarn/logs/yarn--nodemanager-lxc-yarn-img.out
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/kvm: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/seq: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-udevd: Failed to apply ACL on /dev/snd/timer: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-vconsole-setup: Failed to open /dev/tty0: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'kernel/yama/ptrace_scope', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-iptables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write 'fq_codel' to 'net/core/default_qdisc', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-arptables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-ip6tables', ignoring: No such file or directory
+May 16 12:11:06 lxc-yarn-img dnf: cachedir: /var/cache/dnf
+May 16 12:11:06 lxc-yarn-img network: Bringing up loopback interface:  [  OK  ]
+May 16 12:11:06 lxc-yarn-img dnf: Loaded plugins: migrate
+May 16 12:11:06 lxc-yarn-img dnf: DNF version: 1.1.6
+May 16 12:11:06 lxc-yarn-img dnf: Making cache files for all metadata files.
+May 16 12:11:06 lxc-yarn-img dnf: Metadata cache refreshed recently.
+May 16 12:11:06 lxc-yarn-img network: Bringing up interface eth0:
+May 16 12:11:06 lxc-yarn-img dhclient[302]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x6868b764)
+May 16 12:11:06 lxc-yarn-img systemd: Started dnf makecache.
+May 16 12:11:07 lxc-yarn-img systemd: Started nodeManager.
+May 16 12:11:14 lxc-yarn-img dhclient[302]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x6868b764)
+May 16 12:11:14 lxc-yarn-img dhclient[302]: DHCPACK from 192.168.122.1 (xid=0x6868b764)
+May 16 12:11:16 lxc-yarn-img NET[425]: /usr/sbin/dhclient-script : updated /etc/resolv.conf
+May 16 12:11:16 lxc-yarn-img dhclient[302]: bound to 192.168.122.34 -- renewal in 1463 seconds.
+May 16 12:11:16 lxc-yarn-img network: Determining IP information for eth0... done.
+May 16 12:11:16 lxc-yarn-img network: [  OK  ]
+May 16 12:11:17 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'kernel/yama/ptrace_scope', ignoring: No such file or directory
+May 16 12:11:17 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-ip6tables', ignoring: No such file or directory
+May 16 12:11:17 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-iptables', ignoring: No such file or directory
+May 16 12:11:17 lxc-yarn-img systemd-sysctl: Couldn't write '0' to 'net/bridge/bridge-nf-call-arptables', ignoring: No such file or directory
+May 16 12:11:17 lxc-yarn-img systemd-sysctl: Couldn't write 'fq_codel' to 'net/core/default_qdisc', ignoring: No such file or directory
+May 16 12:11:17 lxc-yarn-img systemd: Started LSB: Bring up/down networking.
+May 16 12:11:17 lxc-yarn-img systemd: Reached target Multi-User System.
+May 16 12:11:17 lxc-yarn-img systemd: Starting Multi-User System.
+May 16 12:11:17 lxc-yarn-img systemd: Starting Update UTMP about System Runlevel Changes...
+May 16 12:11:17 lxc-yarn-img systemd: Reached target Network is Online.
+May 16 12:11:17 lxc-yarn-img systemd: Starting Network is Online.
+May 16 12:11:17 lxc-yarn-img systemd: Started Update UTMP about System Runlevel Changes.
+May 16 12:11:18 lxc-yarn-img systemd: Created slice user-0.slice.
+May 16 12:11:18 lxc-yarn-img systemd: Starting user-0.slice.
+May 16 12:11:18 lxc-yarn-img systemd: Starting User Manager for UID 0...
+May 16 12:11:18 lxc-yarn-img systemd-logind: New session 156 of user root.
+May 16 12:11:18 lxc-yarn-img systemd: Started Session 156 of user root.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Session 156 of user root.
+May 16 12:11:18 lxc-yarn-img systemd: Reached target Timers.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Timers.
+May 16 12:11:18 lxc-yarn-img systemd: Reached target Sockets.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Sockets.
+May 16 12:11:18 lxc-yarn-img systemd: Reached target Paths.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Paths.
+May 16 12:11:18 lxc-yarn-img systemd: Reached target Basic System.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Basic System.
+May 16 12:11:18 lxc-yarn-img systemd: Reached target Default.
+May 16 12:11:18 lxc-yarn-img systemd: Startup finished in 6ms.
+May 16 12:11:18 lxc-yarn-img systemd: Starting Default.
+May 16 12:11:18 lxc-yarn-img systemd: Started User Manager for UID 0.
+May 16 12:12:37 lxc-yarn-img systemd-logind: Removed session 156.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping User Manager for UID 0...
+May 16 12:12:37 lxc-yarn-img systemd: Stopped target Default.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping Default.
+May 16 12:12:37 lxc-yarn-img systemd: Stopped target Basic System.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping Basic System.
+May 16 12:12:37 lxc-yarn-img systemd: Stopped target Timers.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping Timers.
+May 16 12:12:37 lxc-yarn-img systemd: Stopped target Paths.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping Paths.
+May 16 12:12:37 lxc-yarn-img systemd: Reached target Shutdown.
+May 16 12:12:37 lxc-yarn-img systemd: Starting Shutdown.
+May 16 12:12:37 lxc-yarn-img systemd: Starting Exit the Session...
+May 16 12:12:37 lxc-yarn-img systemd: Stopped target Sockets.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping Sockets.
+May 16 12:12:37 lxc-yarn-img systemd: Received SIGRTMIN+24 from PID 520 (kill).
+May 16 12:12:37 lxc-yarn-img systemd: Stopped User Manager for UID 0.
+May 16 12:12:37 lxc-yarn-img systemd: Removed slice user-0.slice.
+May 16 12:12:37 lxc-yarn-img systemd: Stopping user-0.slice.
+May 16 12:12:40 lxc-yarn-img systemd: Created slice user-0.slice.
+May 16 12:12:40 lxc-yarn-img systemd: Starting user-0.slice.
+May 16 12:12:40 lxc-yarn-img systemd: Starting User Manager for UID 0...
+May 16 12:12:40 lxc-yarn-img systemd-logind: New session 156 of user root.
+May 16 12:12:40 lxc-yarn-img systemd: Started Session 156 of user root.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Session 156 of user root.
+May 16 12:12:40 lxc-yarn-img systemd: Reached target Sockets.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Sockets.
+May 16 12:12:40 lxc-yarn-img systemd: Reached target Timers.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Timers.
+May 16 12:12:40 lxc-yarn-img systemd: Reached target Paths.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Paths.
+May 16 12:12:40 lxc-yarn-img systemd: Reached target Basic System.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Basic System.
+May 16 12:12:40 lxc-yarn-img systemd: Reached target Default.
+May 16 12:12:40 lxc-yarn-img systemd: Startup finished in 7ms.
+May 16 12:12:40 lxc-yarn-img systemd: Starting Default.
+May 16 12:12:40 lxc-yarn-img systemd: Started User Manager for UID 0.
+May 16 12:12:51 lxc-yarn-img systemd-logind: Removed session 156.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping User Manager for UID 0...
+May 16 12:12:51 lxc-yarn-img systemd: Reached target Shutdown.
+May 16 12:12:51 lxc-yarn-img systemd: Starting Shutdown.
+May 16 12:12:51 lxc-yarn-img systemd: Starting Exit the Session...
+May 16 12:12:51 lxc-yarn-img systemd: Stopped target Default.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping Default.
+May 16 12:12:51 lxc-yarn-img systemd: Stopped target Basic System.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping Basic System.
+May 16 12:12:51 lxc-yarn-img systemd: Stopped target Sockets.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping Sockets.
+May 16 12:12:51 lxc-yarn-img systemd: Stopped target Paths.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping Paths.
+May 16 12:12:51 lxc-yarn-img systemd: Stopped target Timers.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping Timers.
+May 16 12:12:51 lxc-yarn-img systemd: Received SIGRTMIN+24 from PID 544 (kill).
+May 16 12:12:51 lxc-yarn-img systemd: Stopped User Manager for UID 0.
+May 16 12:12:51 lxc-yarn-img systemd: Removed slice user-0.slice.
+May 16 12:12:51 lxc-yarn-img systemd: Stopping user-0.slice.
+May 16 12:12:57 lxc-yarn-img systemd: Created slice user-0.slice.
+May 16 12:12:57 lxc-yarn-img systemd: Starting user-0.slice.
+May 16 12:12:57 lxc-yarn-img systemd: Starting User Manager for UID 0...
+May 16 12:12:57 lxc-yarn-img systemd-logind: New session 156 of user root.
+May 16 12:12:57 lxc-yarn-img systemd: Started Session 156 of user root.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Session 156 of user root.
+May 16 12:12:57 lxc-yarn-img systemd: Reached target Sockets.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Sockets.
+May 16 12:12:57 lxc-yarn-img systemd: Reached target Timers.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Timers.
+May 16 12:12:57 lxc-yarn-img systemd: Reached target Paths.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Paths.
+May 16 12:12:57 lxc-yarn-img systemd: Reached target Basic System.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Basic System.
+May 16 12:12:57 lxc-yarn-img systemd: Reached target Default.
+May 16 12:12:57 lxc-yarn-img systemd: Startup finished in 7ms.
+May 16 12:12:57 lxc-yarn-img systemd: Starting Default.
+May 16 12:12:57 lxc-yarn-img systemd: Started User Manager for UID 0.
+May 16 12:13:00 lxc-yarn-img systemd-logind: Removed session 156.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping User Manager for UID 0...
+May 16 12:13:00 lxc-yarn-img systemd: Reached target Shutdown.
+May 16 12:13:00 lxc-yarn-img systemd: Starting Shutdown.
+May 16 12:13:00 lxc-yarn-img systemd: Starting Exit the Session...
+May 16 12:13:00 lxc-yarn-img systemd: Stopped target Default.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping Default.
+May 16 12:13:00 lxc-yarn-img systemd: Stopped target Basic System.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping Basic System.
+May 16 12:13:00 lxc-yarn-img systemd: Stopped target Paths.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping Paths.
+May 16 12:13:00 lxc-yarn-img systemd: Stopped target Timers.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping Timers.
+May 16 12:13:00 lxc-yarn-img systemd: Stopped target Sockets.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping Sockets.
+May 16 12:13:00 lxc-yarn-img systemd: Received SIGRTMIN+24 from PID 567 (kill).
+May 16 12:13:00 lxc-yarn-img systemd: Stopped User Manager for UID 0.
+May 16 12:13:00 lxc-yarn-img systemd: Removed slice user-0.slice.
+May 16 12:13:00 lxc-yarn-img systemd: Stopping user-0.slice.
+May 16 12:13:07 lxc-yarn-img systemd: Received SIGPWR.
+May 16 12:13:07 lxc-yarn-img systemd: Stopped target Network is Online.
+May 16 12:13:07 lxc-yarn-img systemd: Stopping Network is Online.
+May 16 12:13:07 lxc-yarn-img systemd: Stopped target Multi-User System.
+May 16 12:13:07 lxc-yarn-img systemd: Stopping Multi-User System.
+May 16 12:13:07 lxc-yarn-img systemd: Stopped target Login Prompts.
+May 16 12:13:07 lxc-yarn-img systemd: Stopping Login Prompts.
+May 16 12:13:07 lxc-yarn-img systemd: Stopping Console Getty...
+May 16 12:13:07 lxc-yarn-img systemd: Stopping Getty on tty3...
+May 16 12:13:07 lxc-yarn-img systemd: Stopping OpenSSH server daemon...
+May 16 12:13:07 lxc-yarn-img systemd: Stopping nodeManager...
+May 16 12:13:07 lxc-yarn-img systemd: Stopping LSB: Bring up/down networking...
+May 16 12:13:07 lxc-yarn-img rsyslogd: [origin software="rsyslogd" swVersion="8.8.0" x-pid="76" x-info="http://www.rsyslog.com"] exiting on signal 15.

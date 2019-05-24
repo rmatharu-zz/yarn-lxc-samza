@@ -55,21 +55,25 @@
 	
 	
 ""1	LINE	0
+	405
+<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClsaYMbeNREHRn3y0lk1aVPl81r0I5+zPi72ltz1CtWVwgcW/hPlCW4YoVYvSFH8jAY4oDqdFlAiKoGGU9jH+sErNT8mkg3ZUiGvT0PuUiwirM+61sd2SF8viZAYwKMl+qiE7LnCHJvCpZPa5DcpN3R5eGwFyT5nw8HIAFUftLChHPqAcrDM40syIYYjMVUDPTDFb7vUeLQ4AQfPX4j//h82lzSuR4inQy6NUE33owSKPcOItCd7ycNDYuc3G1paDOHAd/azSp76WX3CPTWasFYJbCWTfTc7vmYzhl5m4fyLj54K9/wERxpDcYqHHCf5Ic2jfXnRtyhNy13r5w0jqt rmatharu@rmatharu-ld1
+"2	LINE	0
 	!/bin/bash
 
 # File marks:
-'0  2  26  /etc/hosts
-'1  209  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
-'2  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
-'3  335  126  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549049262593_0001/container_1549049262593_0001_01_000001/samza-job-coordinator.log
-'4  363  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549049262593_0001/container_1549049262593_0001_01_000001/samza-job-coordinator.log
-'5  294  1  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0003/container_1549005511761_0003_01_000001/samza-job-coordinator.log
-'6  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0003/container_1549005511761_0003_01_000001/samza-job-coordinator.log
-'7  31  4  ~/hello-samza/conf/yarn-site.xml
-'8  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0001/container_1549005511761_0001_02_000001/samza-job-coordinator.log
-'9  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1548716875583_0013/container_1548716875583_0013_01_000001/samza-job-coordinator.log
+'0  1  0  ~/.ssh/authorized_keys
+'1  2  26  /etc/hosts
+'2  209  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
+'3  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
+'4  335  126  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549049262593_0001/container_1549049262593_0001_01_000001/samza-job-coordinator.log
+'5  363  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549049262593_0001/container_1549049262593_0001_01_000001/samza-job-coordinator.log
+'6  294  1  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0003/container_1549005511761_0003_01_000001/samza-job-coordinator.log
+'7  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0003/container_1549005511761_0003_01_000001/samza-job-coordinator.log
+'8  31  4  ~/hello-samza/conf/yarn-site.xml
+'9  1  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549005511761_0001/container_1549005511761_0001_02_000001/samza-job-coordinator.log
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/authorized_keys
 -'  2  26  /etc/hosts
 -'  1  0  /etc/hosts
 -'  209  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
@@ -165,8 +169,15 @@
 -'  1  0  ~/hello-samza/target/rat.txt
 -'  25  0  ~/hello-samza/target/rat.txt
 -'  209  0  ~/hello-samza/deploy/yarn/logs/userlogs/application_1549050126524_0002/container_1549050126524_0002_01_000003/samza-container-0.log
+-'  2  26  /etc/hosts
+-'  1  0  /etc/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/authorized_keys
+	"	1	0
+	.	2	0
+	+	2	0
 
 > /etc/hosts
 	"	2	26

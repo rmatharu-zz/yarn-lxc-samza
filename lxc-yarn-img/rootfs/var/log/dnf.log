@@ -1042,3 +1042,29 @@ May 16 10:29:06 DEBUG_2 Extra commands: [u'timer']
 May 16 10:29:06 DEBUG Making cache files for all metadata files.
 May 16 10:29:06 INFO Metadata cache refreshed recently.
 May 16 10:29:06 DEBUG_2 Cleaning up.
+May 16 11:29:21 INFO --- logging initialized ---
+May 16 11:29:21 DDEBUG timer: config: 7 ms
+May 16 11:29:21 DEBUG cachedir: /var/cache/dnf
+May 16 11:29:21 DEBUG Loaded plugins: migrate
+May 16 11:29:21 DEBUG DNF version: 1.1.6
+May 16 11:29:21 DEBUG_2 Command: dnf -v makecache timer 
+May 16 11:29:21 DEBUG_2 Installroot: /
+May 16 11:29:21 DEBUG_2 Releasever: 22
+May 16 11:29:21 DEBUG_2 Base command: makecache
+May 16 11:29:21 DEBUG_2 Extra commands: [u'timer']
+May 16 11:29:21 DEBUG Making cache files for all metadata files.
+May 16 11:29:21 INFO Metadata cache refreshed recently.
+May 16 11:29:21 DEBUG_2 Cleaning up.
+May 16 12:11:06 INFO --- logging initialized ---
+May 16 12:11:06 DDEBUG timer: config: 7 ms
+May 16 12:11:06 DEBUG cachedir: /var/cache/dnf
+May 16 12:11:06 DEBUG Loaded plugins: migrate
+May 16 12:11:06 DEBUG DNF version: 1.1.6
+May 16 12:11:06 DEBUG_2 Command: dnf -v makecache timer 
+May 16 12:11:06 DEBUG_2 Installroot: /
+May 16 12:11:06 DEBUG_2 Releasever: 22
+May 16 12:11:06 DEBUG_2 Base command: makecache
+May 16 12:11:06 DEBUG_2 Extra commands: [u'timer']
+May 16 12:11:06 DEBUG Making cache files for all metadata files.
+May 16 12:11:06 INFO Metadata cache refreshed recently.
+May 16 12:11:06 DEBUG_2 Cleaning up.
