@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/" type="dynamic" pubdate="Sat, 26 Jan 2019 07:55:07 GMT" generator="mirrormanager" xmlns:mm0="http://fedorahosted.org/mirrormanager">
+  <files>
+    <file name="repomd.xml">
+      <mm0:timestamp>1432376600</mm0:timestamp>
+      <size>3852</size>
+      <verification>
+        <hash type="md5">66c61582efb35a81d1a7b33cb6d145ae</hash>
+        <hash type="sha1">003ad4efd1e16819e716e62cb7472caa5a4c17af</hash>
+        <hash type="sha256">76f831edbd7c751367e0b17db1ddc07694fc577fa9d98699eea7ad1fcdc619af</hash>
+        <hash type="sha512">423511938fa926c4b1058c475d8e38832cf172dab5a2e475f2856c37f371cf2e490cafb68a09ca5115e397e5099a8363d495b7d1ddb38c446fd2fb38160eebed</hash>
+      </verification>
+      <resources maxconnections="1">
+        <url protocol="http" type="http" location="US" preference="100" >http://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="rsync" type="rsync" location="US" preference="100" >rsync://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="http" type="http" location="US" preference="99" >http://mirrors.rit.edu/fedora/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="https" type="https" location="US" preference="99" >https://mirrors.rit.edu/fedora/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="rsync" type="rsync" location="US" preference="99" >rsync://mirrors.rit.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="rsync" type="rsync" location="US" preference="98" >rsync://mirrors.kernel.org/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="http" type="http" location="US" preference="98" >http://mirrors.kernel.org/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="rsync" type="rsync" location="US" preference="97" >rsync://pubmirror2.math.uh.edu/fedora-archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="http" type="http" location="US" preference="97" >http://pubmirror2.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="https" type="https" location="US" preference="97" >https://pubmirror2.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="http" type="http" location="US" preference="96" >http://pubmirror1.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="rsync" type="rsync" location="US" preference="96" >rsync://pubmirror1.math.uh.edu/fedora-archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="https" type="https" location="US" preference="96" >https://pubmirror1.math.uh.edu/fedora-buffet/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="https" type="https" location="US" preference="95" >https://dl.fedoraproject.org/pub/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+        <url protocol="http" type="http" location="US" preference="95" >http://dl.fedoraproject.org/pub/archive/fedora/linux/releases/22/Everything/x86_64/os/repodata/repomd.xml</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

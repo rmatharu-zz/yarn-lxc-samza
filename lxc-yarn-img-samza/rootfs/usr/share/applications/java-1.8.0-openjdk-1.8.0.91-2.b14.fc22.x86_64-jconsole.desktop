@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=OpenJDK 8 Monitoring & Management Console 1.8.0.91-2.b14.fc22.x86_64
+Comment=Monitor and manage OpenJDK applications for 1.8.0.91-2.b14.fc22.x86_64
+Exec=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.91-2.b14.fc22.x86_64/bin/jconsole
+Icon=java-1.8.0
+Terminal=false
+Type=Application
+StartupWMClass=sun-tools-jconsole-JConsole
+Categories=Development;Monitor;Java;
+Version=1.0
+X-Desktop-File-Install-Version=0.22

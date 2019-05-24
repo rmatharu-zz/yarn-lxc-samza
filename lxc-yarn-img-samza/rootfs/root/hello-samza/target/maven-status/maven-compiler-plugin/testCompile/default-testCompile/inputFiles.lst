@@ -1,0 +1,4 @@
+/root/hello-samza/src/test/java/samza/examples/cookbook/test/TestSamzaCookBookExamples.java
+/root/hello-samza/src/test/java/samza/examples/test/utils/TestUtils.java
+/root/hello-samza/src/test/java/samza/examples/wikipedia/task/test/TestWikipediaTask.java
+/root/hello-samza/src/test/java/samza/examples/wikipedia/application/test/TestWikipediaApplication.java

@@ -1,0 +1,8 @@
+# LXC (Linux Containers)
+lxc/console
+lxc/tty1
+lxc/tty2
+lxc/tty3
+lxc/tty4
+# For libvirt/Virtual Machine Monitor
+pts/0

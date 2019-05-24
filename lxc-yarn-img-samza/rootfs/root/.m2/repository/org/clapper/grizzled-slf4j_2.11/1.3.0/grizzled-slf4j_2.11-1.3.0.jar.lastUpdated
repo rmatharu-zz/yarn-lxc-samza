@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 26 08:50:56 UTC 2019
+https\://repository.apache.org/content/groups/public/.lastUpdated=1548492646024
+https\://repository.apache.org/content/groups/public/.error=
+@default-scala-tools.org-https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1548492650473
+file\:///root/.m2/repository/.error=
+https\://oss.sonatype.org/content/groups/scala-tools/.error=Could not transfer artifact org.clapper\:grizzled-slf4j_2.11\:jar\:1.3.0 from/to scala-tools.org (https\://oss.sonatype.org/content/groups/scala-tools)\: Access denied to\: https\://oss.sonatype.org/content/groups/scala-tools/org/clapper/grizzled-slf4j_2.11/1.3.0/grizzled-slf4j_2.11-1.3.0.jar , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548492656677
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1548492655091
+file\:///root/.m2/repository/.lastUpdated=1548492632358
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

@@ -1,0 +1,8 @@
+auto
+/usr/lib/jvm/jre-openjdk
+jre_openjdk_exports
+/usr/lib/jvm-exports/jre-openjdk
+
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.91-2.b14.fc22.x86_64/jre
+@java-1.8.0-openjdk@1800091
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.91-2.b14.fc22.x86_64/jre

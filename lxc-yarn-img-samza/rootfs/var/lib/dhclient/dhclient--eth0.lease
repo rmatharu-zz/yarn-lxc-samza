@@ -1,0 +1,35 @@
+default-duid "\000\001\000\001#\336\326\032\376\035\261\221\036\204";
+lease {
+  interface "eth0";
+  fixed-address 192.168.122.34;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 3600;
+  option routers 192.168.122.1;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.122.1;
+  option domain-name-servers 192.168.122.1;
+  option dhcp-renewal-time 1666;
+  option dhcp-rebinding-time 3016;
+  option broadcast-address 192.168.122.255;
+  option host-name "lxc-yarn-img";
+  renew 4 2019/05/16 18:41:36;
+  rebind 4 2019/05/16 19:10:25;
+  expire 4 2019/05/16 19:20:09;
+}
+lease {
+  interface "eth0";
+  fixed-address 192.168.122.34;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.122.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.122.1;
+  option dhcp-server-identifier 192.168.122.1;
+  option dhcp-renewal-time 1800;
+  option broadcast-address 192.168.122.255;
+  option dhcp-rebinding-time 3150;
+  option host-name "lxc-yarn-img";
+  renew 4 2019/05/16 19:35:39;
+  rebind 4 2019/05/16 20:03:44;
+  expire 4 2019/05/16 20:11:14;
+}

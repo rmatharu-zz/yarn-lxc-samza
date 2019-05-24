@@ -1,0 +1,257 @@
+May 13 03:16:02 test10 run-parts[52165]: (/etc/cron.daily) finished logrotate
+May 13 03:16:02 test10 run-parts[52153]: (/etc/cron.daily) starting man-db.cron
+May 13 03:16:02 test10 run-parts[52176]: (/etc/cron.daily) finished man-db.cron
+May 13 03:16:02 test10 anacron[52148]: Job `cron.daily' terminated
+May 13 03:16:02 test10 anacron[52148]: Normal exit (1 job run)
+May 13 04:01:01 test10 CROND[52226]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 04:01:01 test10 run-parts[52226]: (/etc/cron.hourly) starting 0anacron
+May 13 04:01:01 test10 run-parts[52235]: (/etc/cron.hourly) finished 0anacron
+May 13 05:01:01 test10 CROND[52311]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 05:01:01 test10 run-parts[52311]: (/etc/cron.hourly) starting 0anacron
+May 13 05:01:01 test10 run-parts[52320]: (/etc/cron.hourly) finished 0anacron
+May 13 06:01:01 test10 CROND[52373]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 06:01:02 test10 run-parts[52373]: (/etc/cron.hourly) starting 0anacron
+May 13 06:01:02 test10 run-parts[52382]: (/etc/cron.hourly) finished 0anacron
+May 13 07:01:01 test10 CROND[52434]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 07:01:01 test10 run-parts[52434]: (/etc/cron.hourly) starting 0anacron
+May 13 07:01:01 test10 run-parts[52443]: (/etc/cron.hourly) finished 0anacron
+May 13 08:01:01 test10 CROND[52519]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 08:01:01 test10 run-parts[52519]: (/etc/cron.hourly) starting 0anacron
+May 13 08:01:01 test10 run-parts[52528]: (/etc/cron.hourly) finished 0anacron
+May 13 09:01:01 test10 CROND[52605]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 09:01:01 test10 run-parts[52605]: (/etc/cron.hourly) starting 0anacron
+May 13 09:01:01 test10 run-parts[52614]: (/etc/cron.hourly) finished 0anacron
+May 13 10:01:01 test10 CROND[52666]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 10:01:02 test10 run-parts[52666]: (/etc/cron.hourly) starting 0anacron
+May 13 10:01:02 test10 run-parts[52675]: (/etc/cron.hourly) finished 0anacron
+May 13 11:01:01 test10 CROND[52751]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 11:01:01 test10 run-parts[52751]: (/etc/cron.hourly) starting 0anacron
+May 13 11:01:01 test10 run-parts[52760]: (/etc/cron.hourly) finished 0anacron
+May 13 12:01:01 test10 CROND[52813]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 12:01:01 test10 run-parts[52813]: (/etc/cron.hourly) starting 0anacron
+May 13 12:01:01 test10 run-parts[52822]: (/etc/cron.hourly) finished 0anacron
+May 13 13:01:01 test10 CROND[52898]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 13:01:02 test10 run-parts[52898]: (/etc/cron.hourly) starting 0anacron
+May 13 13:01:02 test10 run-parts[52907]: (/etc/cron.hourly) finished 0anacron
+May 13 14:01:01 test10 CROND[52959]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 14:01:01 test10 run-parts[52959]: (/etc/cron.hourly) starting 0anacron
+May 13 14:01:01 test10 run-parts[52968]: (/etc/cron.hourly) finished 0anacron
+May 13 15:01:01 test10 CROND[53045]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 15:01:01 test10 run-parts[53045]: (/etc/cron.hourly) starting 0anacron
+May 13 15:01:01 test10 run-parts[53054]: (/etc/cron.hourly) finished 0anacron
+May 13 16:01:01 test10 CROND[53106]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 16:01:01 test10 run-parts[53106]: (/etc/cron.hourly) starting 0anacron
+May 13 16:01:01 test10 run-parts[53115]: (/etc/cron.hourly) finished 0anacron
+May 13 17:01:01 test10 CROND[53191]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 17:01:02 test10 run-parts[53191]: (/etc/cron.hourly) starting 0anacron
+May 13 17:01:02 test10 run-parts[53200]: (/etc/cron.hourly) finished 0anacron
+May 13 18:01:01 test10 CROND[53253]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 18:01:01 test10 run-parts[53253]: (/etc/cron.hourly) starting 0anacron
+May 13 18:01:01 test10 run-parts[53262]: (/etc/cron.hourly) finished 0anacron
+May 13 19:01:01 test10 CROND[53338]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 19:01:01 test10 run-parts[53338]: (/etc/cron.hourly) starting 0anacron
+May 13 19:01:01 test10 run-parts[53347]: (/etc/cron.hourly) finished 0anacron
+May 13 20:01:01 test10 CROND[53399]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 20:01:02 test10 run-parts[53399]: (/etc/cron.hourly) starting 0anacron
+May 13 20:01:02 test10 run-parts[53408]: (/etc/cron.hourly) finished 0anacron
+May 13 21:01:01 test10 CROND[53485]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 21:01:01 test10 run-parts[53485]: (/etc/cron.hourly) starting 0anacron
+May 13 21:01:01 test10 run-parts[53494]: (/etc/cron.hourly) finished 0anacron
+May 13 22:01:01 test10 CROND[53570]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 22:01:01 test10 run-parts[53570]: (/etc/cron.hourly) starting 0anacron
+May 13 22:01:01 test10 run-parts[53579]: (/etc/cron.hourly) finished 0anacron
+May 13 23:01:01 test10 CROND[53632]: (root) CMD (run-parts /etc/cron.hourly)
+May 13 23:01:01 test10 run-parts[53632]: (/etc/cron.hourly) starting 0anacron
+May 13 23:01:01 test10 run-parts[53641]: (/etc/cron.hourly) finished 0anacron
+May 14 00:01:01 test10 CROND[53718]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 00:01:02 test10 run-parts[53718]: (/etc/cron.hourly) starting 0anacron
+May 14 00:01:02 test10 anacron[53727]: Anacron started on 2019-05-14
+May 14 00:01:02 test10 anacron[53727]: Normal exit (0 jobs run)
+May 14 00:01:02 test10 run-parts[53729]: (/etc/cron.hourly) finished 0anacron
+May 14 01:01:01 test10 CROND[53781]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 01:01:01 test10 run-parts[53781]: (/etc/cron.hourly) starting 0anacron
+May 14 01:01:01 test10 anacron[53790]: Anacron started on 2019-05-14
+May 14 01:01:01 test10 anacron[53790]: Normal exit (0 jobs run)
+May 14 01:01:01 test10 run-parts[53792]: (/etc/cron.hourly) finished 0anacron
+May 14 02:01:01 test10 CROND[53868]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 02:01:01 test10 run-parts[53868]: (/etc/cron.hourly) starting 0anacron
+May 14 02:01:01 test10 anacron[53877]: Anacron started on 2019-05-14
+May 14 02:01:01 test10 anacron[53877]: Normal exit (0 jobs run)
+May 14 02:01:01 test10 run-parts[53879]: (/etc/cron.hourly) finished 0anacron
+May 14 03:01:01 test10 CROND[53932]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 03:01:02 test10 run-parts[53932]: (/etc/cron.hourly) starting 0anacron
+May 14 03:01:02 test10 anacron[53941]: Anacron started on 2019-05-14
+May 14 03:01:02 test10 anacron[53941]: Will run job `cron.daily' in 18 min.
+May 14 03:01:02 test10 anacron[53941]: Will run job `cron.weekly' in 38 min.
+May 14 03:01:02 test10 anacron[53941]: Jobs will be executed sequentially
+May 14 03:01:02 test10 run-parts[53943]: (/etc/cron.hourly) finished 0anacron
+May 14 03:19:02 test10 anacron[53941]: Job `cron.daily' started
+May 14 03:19:02 test10 run-parts[53970]: (/etc/cron.daily) starting logrotate
+May 14 03:19:02 test10 run-parts[53978]: (/etc/cron.daily) finished logrotate
+May 14 03:19:02 test10 run-parts[53970]: (/etc/cron.daily) starting man-db.cron
+May 14 03:19:02 test10 run-parts[53989]: (/etc/cron.daily) finished man-db.cron
+May 14 03:19:02 test10 anacron[53941]: Job `cron.daily' terminated
+May 14 03:39:02 test10 anacron[53941]: Job `cron.weekly' started
+May 14 03:39:02 test10 anacron[53941]: Job `cron.weekly' terminated
+May 14 03:39:02 test10 anacron[53941]: Normal exit (2 jobs run)
+May 14 04:01:01 test10 CROND[54041]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 04:01:01 test10 run-parts[54041]: (/etc/cron.hourly) starting 0anacron
+May 14 04:01:01 test10 run-parts[54050]: (/etc/cron.hourly) finished 0anacron
+May 14 05:01:01 test10 CROND[54102]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 05:01:01 test10 run-parts[54102]: (/etc/cron.hourly) starting 0anacron
+May 14 05:01:01 test10 run-parts[54111]: (/etc/cron.hourly) finished 0anacron
+May 14 06:01:01 test10 CROND[54188]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 06:01:01 test10 run-parts[54188]: (/etc/cron.hourly) starting 0anacron
+May 14 06:01:01 test10 run-parts[54197]: (/etc/cron.hourly) finished 0anacron
+May 14 07:01:01 test10 CROND[54249]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 07:01:02 test10 run-parts[54249]: (/etc/cron.hourly) starting 0anacron
+May 14 07:01:02 test10 run-parts[54258]: (/etc/cron.hourly) finished 0anacron
+May 14 08:01:01 test10 CROND[54334]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 08:01:01 test10 run-parts[54334]: (/etc/cron.hourly) starting 0anacron
+May 14 08:01:01 test10 run-parts[54343]: (/etc/cron.hourly) finished 0anacron
+May 14 09:01:01 test10 CROND[54397]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 09:01:01 test10 run-parts[54397]: (/etc/cron.hourly) starting 0anacron
+May 14 09:01:01 test10 run-parts[54406]: (/etc/cron.hourly) finished 0anacron
+May 14 10:01:01 test10 CROND[54482]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 10:01:02 test10 run-parts[54482]: (/etc/cron.hourly) starting 0anacron
+May 14 10:01:02 test10 run-parts[54491]: (/etc/cron.hourly) finished 0anacron
+May 14 11:01:01 test10 CROND[54543]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 11:01:01 test10 run-parts[54543]: (/etc/cron.hourly) starting 0anacron
+May 14 11:01:01 test10 run-parts[54552]: (/etc/cron.hourly) finished 0anacron
+May 14 12:01:01 test10 CROND[54629]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 12:01:01 test10 run-parts[54629]: (/etc/cron.hourly) starting 0anacron
+May 14 12:01:01 test10 run-parts[54638]: (/etc/cron.hourly) finished 0anacron
+May 14 13:01:01 test10 CROND[54690]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 13:01:01 test10 run-parts[54690]: (/etc/cron.hourly) starting 0anacron
+May 14 13:01:01 test10 run-parts[54699]: (/etc/cron.hourly) finished 0anacron
+May 14 14:01:01 test10 CROND[54775]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 14:01:02 test10 run-parts[54775]: (/etc/cron.hourly) starting 0anacron
+May 14 14:01:02 test10 run-parts[54784]: (/etc/cron.hourly) finished 0anacron
+May 14 15:01:01 test10 CROND[54837]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 15:01:01 test10 run-parts[54837]: (/etc/cron.hourly) starting 0anacron
+May 14 15:01:01 test10 run-parts[54846]: (/etc/cron.hourly) finished 0anacron
+May 14 16:01:01 test10 CROND[54922]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 16:01:01 test10 run-parts[54922]: (/etc/cron.hourly) starting 0anacron
+May 14 16:01:01 test10 run-parts[54931]: (/etc/cron.hourly) finished 0anacron
+May 14 17:01:01 test10 CROND[54983]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 17:01:02 test10 run-parts[54983]: (/etc/cron.hourly) starting 0anacron
+May 14 17:01:02 test10 run-parts[54992]: (/etc/cron.hourly) finished 0anacron
+May 14 18:01:01 test10 CROND[55069]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 18:01:01 test10 run-parts[55069]: (/etc/cron.hourly) starting 0anacron
+May 14 18:01:01 test10 run-parts[55078]: (/etc/cron.hourly) finished 0anacron
+May 14 19:01:01 test10 CROND[55130]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 19:01:01 test10 run-parts[55130]: (/etc/cron.hourly) starting 0anacron
+May 14 19:01:01 test10 run-parts[55139]: (/etc/cron.hourly) finished 0anacron
+May 14 20:01:01 test10 CROND[55215]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 20:01:01 test10 run-parts[55215]: (/etc/cron.hourly) starting 0anacron
+May 14 20:01:01 test10 run-parts[55224]: (/etc/cron.hourly) finished 0anacron
+May 14 21:01:01 test10 CROND[55301]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 21:01:02 test10 run-parts[55301]: (/etc/cron.hourly) starting 0anacron
+May 14 21:01:02 test10 run-parts[55310]: (/etc/cron.hourly) finished 0anacron
+May 14 22:01:01 test10 CROND[55362]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 22:01:01 test10 run-parts[55362]: (/etc/cron.hourly) starting 0anacron
+May 14 22:01:01 test10 run-parts[55371]: (/etc/cron.hourly) finished 0anacron
+May 14 23:01:01 test10 CROND[55448]: (root) CMD (run-parts /etc/cron.hourly)
+May 14 23:01:01 test10 run-parts[55448]: (/etc/cron.hourly) starting 0anacron
+May 14 23:01:01 test10 run-parts[55457]: (/etc/cron.hourly) finished 0anacron
+May 15 00:01:01 test10 CROND[55510]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 00:01:02 test10 run-parts[55510]: (/etc/cron.hourly) starting 0anacron
+May 15 00:01:02 test10 anacron[55519]: Anacron started on 2019-05-15
+May 15 00:01:02 test10 anacron[55519]: Normal exit (0 jobs run)
+May 15 00:01:02 test10 run-parts[55521]: (/etc/cron.hourly) finished 0anacron
+May 15 01:01:01 test10 CROND[55597]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 01:01:01 test10 run-parts[55597]: (/etc/cron.hourly) starting 0anacron
+May 15 01:01:01 test10 anacron[55606]: Anacron started on 2019-05-15
+May 15 01:01:01 test10 anacron[55606]: Normal exit (0 jobs run)
+May 15 01:01:01 test10 run-parts[55608]: (/etc/cron.hourly) finished 0anacron
+May 15 02:01:01 test10 CROND[55660]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 02:01:01 test10 run-parts[55660]: (/etc/cron.hourly) starting 0anacron
+May 15 02:01:01 test10 anacron[55669]: Anacron started on 2019-05-15
+May 15 02:01:01 test10 anacron[55669]: Normal exit (0 jobs run)
+May 15 02:01:01 test10 run-parts[55671]: (/etc/cron.hourly) finished 0anacron
+May 15 03:01:01 test10 CROND[55724]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 03:01:01 test10 run-parts[55724]: (/etc/cron.hourly) starting 0anacron
+May 15 03:01:01 test10 anacron[55733]: Anacron started on 2019-05-15
+May 15 03:01:01 test10 anacron[55733]: Will run job `cron.daily' in 41 min.
+May 15 03:01:01 test10 anacron[55733]: Jobs will be executed sequentially
+May 15 03:01:01 test10 run-parts[55735]: (/etc/cron.hourly) finished 0anacron
+May 15 03:42:01 test10 anacron[55733]: Job `cron.daily' started
+May 15 03:42:01 test10 run-parts[55786]: (/etc/cron.daily) starting logrotate
+May 15 03:42:01 test10 run-parts[55794]: (/etc/cron.daily) finished logrotate
+May 15 03:42:01 test10 run-parts[55786]: (/etc/cron.daily) starting man-db.cron
+May 15 03:42:02 test10 run-parts[55805]: (/etc/cron.daily) finished man-db.cron
+May 15 03:42:02 test10 anacron[55733]: Job `cron.daily' terminated
+May 15 03:42:02 test10 anacron[55733]: Normal exit (1 job run)
+May 15 04:01:01 test10 CROND[55831]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 04:01:02 test10 run-parts[55831]: (/etc/cron.hourly) starting 0anacron
+May 15 04:01:02 test10 run-parts[55840]: (/etc/cron.hourly) finished 0anacron
+May 15 05:01:01 test10 CROND[55916]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 05:01:01 test10 run-parts[55916]: (/etc/cron.hourly) starting 0anacron
+May 15 05:01:01 test10 run-parts[55925]: (/etc/cron.hourly) finished 0anacron
+May 15 06:01:01 test10 CROND[55978]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 06:01:01 test10 run-parts[55978]: (/etc/cron.hourly) starting 0anacron
+May 15 06:01:01 test10 run-parts[55987]: (/etc/cron.hourly) finished 0anacron
+May 15 07:01:01 test10 CROND[56063]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 07:01:02 test10 run-parts[56063]: (/etc/cron.hourly) starting 0anacron
+May 15 07:01:02 test10 run-parts[56072]: (/etc/cron.hourly) finished 0anacron
+May 15 08:01:01 test10 CROND[56124]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 08:01:01 test10 run-parts[56124]: (/etc/cron.hourly) starting 0anacron
+May 15 08:01:01 test10 run-parts[56133]: (/etc/cron.hourly) finished 0anacron
+May 15 09:01:01 test10 CROND[56210]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 09:01:01 test10 run-parts[56210]: (/etc/cron.hourly) starting 0anacron
+May 15 09:01:01 test10 run-parts[56219]: (/etc/cron.hourly) finished 0anacron
+May 15 10:01:01 test10 CROND[56271]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 10:01:01 test10 run-parts[56271]: (/etc/cron.hourly) starting 0anacron
+May 15 10:01:01 test10 run-parts[56280]: (/etc/cron.hourly) finished 0anacron
+May 15 11:01:01 test10 CROND[56356]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 11:01:02 test10 run-parts[56356]: (/etc/cron.hourly) starting 0anacron
+May 15 11:01:02 test10 run-parts[56365]: (/etc/cron.hourly) finished 0anacron
+May 15 12:01:01 test10 CROND[56418]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 12:01:01 test10 run-parts[56418]: (/etc/cron.hourly) starting 0anacron
+May 15 12:01:01 test10 run-parts[56427]: (/etc/cron.hourly) finished 0anacron
+May 15 13:01:01 test10 CROND[56503]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 13:01:01 test10 run-parts[56503]: (/etc/cron.hourly) starting 0anacron
+May 15 13:01:01 test10 run-parts[56512]: (/etc/cron.hourly) finished 0anacron
+May 15 14:01:01 test10 CROND[56564]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 14:01:02 test10 run-parts[56564]: (/etc/cron.hourly) starting 0anacron
+May 15 14:01:02 test10 run-parts[56573]: (/etc/cron.hourly) finished 0anacron
+May 15 15:01:01 test10 CROND[56650]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 15:01:01 test10 run-parts[56650]: (/etc/cron.hourly) starting 0anacron
+May 15 15:01:01 test10 run-parts[56659]: (/etc/cron.hourly) finished 0anacron
+May 15 16:01:01 test10 CROND[56711]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 16:01:01 test10 run-parts[56711]: (/etc/cron.hourly) starting 0anacron
+May 15 16:01:01 test10 run-parts[56720]: (/etc/cron.hourly) finished 0anacron
+May 15 17:01:01 test10 CROND[56801]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 17:01:01 test10 run-parts[56801]: (/etc/cron.hourly) starting 0anacron
+May 15 17:01:01 test10 run-parts[56810]: (/etc/cron.hourly) finished 0anacron
+May 15 18:01:01 test10 CROND[57007]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 18:01:02 test10 run-parts[57007]: (/etc/cron.hourly) starting 0anacron
+May 15 18:01:02 test10 run-parts[57016]: (/etc/cron.hourly) finished 0anacron
+May 15 19:01:01 test10 CROND[57092]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 19:01:01 test10 run-parts[57092]: (/etc/cron.hourly) starting 0anacron
+May 15 19:01:01 test10 run-parts[57101]: (/etc/cron.hourly) finished 0anacron
+May 15 20:01:01 test10 CROND[57153]: (root) CMD (run-parts /etc/cron.hourly)
+May 15 20:01:01 test10 run-parts[57153]: (/etc/cron.hourly) starting 0anacron
+May 15 20:01:01 test10 run-parts[57162]: (/etc/cron.hourly) finished 0anacron
+May 16 10:10:32 lxc-yarn-img crond[101]: (CRON) INFO (Syslog will be used instead of sendmail.)
+May 16 10:10:32 lxc-yarn-img crond[101]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 6% if used.)
+May 16 10:10:32 lxc-yarn-img crond[101]: (CRON) INFO (running with inotify support)
+May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (Syslog will be used instead of sendmail.)
+May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 14% if used.)
+May 16 10:29:06 lxc-yarn-img crond[100]: (CRON) INFO (running with inotify support)
+May 16 11:01:01 lxc-yarn-img CROND[622]: (root) CMD (run-parts /etc/cron.hourly)
+May 16 11:01:01 lxc-yarn-img run-parts[622]: (/etc/cron.hourly) starting 0anacron
+May 16 11:01:01 lxc-yarn-img anacron[631]: Anacron started on 2019-05-16
+May 16 11:01:01 lxc-yarn-img anacron[631]: Will run job `cron.daily' in 19 min.
+May 16 11:01:01 lxc-yarn-img anacron[631]: Jobs will be executed sequentially
+May 16 11:01:01 lxc-yarn-img run-parts[633]: (/etc/cron.hourly) finished 0anacron
+May 16 11:20:01 lxc-yarn-img anacron[631]: Job `cron.daily' started
+May 16 11:20:01 lxc-yarn-img run-parts[634]: (/etc/cron.daily) starting logrotate
+May 16 11:20:01 lxc-yarn-img run-parts[642]: (/etc/cron.daily) finished logrotate
+May 16 11:20:01 lxc-yarn-img run-parts[634]: (/etc/cron.daily) starting man-db.cron
+May 16 11:20:02 lxc-yarn-img run-parts[653]: (/etc/cron.daily) finished man-db.cron
+May 16 11:20:02 lxc-yarn-img anacron[631]: Job `cron.daily' terminated
+May 16 11:20:02 lxc-yarn-img anacron[631]: Normal exit (1 job run)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (Syslog will be used instead of sendmail.)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 45% if used.)
+May 16 12:11:06 lxc-yarn-img crond[103]: (CRON) INFO (running with inotify support)

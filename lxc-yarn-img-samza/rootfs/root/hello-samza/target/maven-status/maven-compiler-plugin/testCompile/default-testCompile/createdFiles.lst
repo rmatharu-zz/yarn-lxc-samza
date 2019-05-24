@@ -1,0 +1,4 @@
+samza/examples/cookbook/test/TestSamzaCookBookExamples.class
+samza/examples/wikipedia/application/test/TestWikipediaApplication.class
+samza/examples/test/utils/TestUtils.class
+samza/examples/wikipedia/task/test/TestWikipediaTask.class
