@@ -1,3 +1,0 @@
-%__javadoc_requires	%{_rpmconfigdir}/javadoc.req
-%__javadoc_requires_opts %{?scl:--scl %{?scl}}
-%__javadoc_path	^%{_javadocdir}/.[^/]*$

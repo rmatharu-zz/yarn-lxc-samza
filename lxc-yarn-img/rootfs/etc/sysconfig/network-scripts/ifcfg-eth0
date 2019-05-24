@@ -1,8 +1,0 @@
-DEVICE=eth0
-BOOTPROTO=dhcp
-ONBOOT=yes
-HOSTNAME=lxc-yarn-img.linkedin.biz
-DHCP_HOSTNAME=`hostname`
-NM_CONTROLLED=no
-TYPE=Ethernet
-MTU=

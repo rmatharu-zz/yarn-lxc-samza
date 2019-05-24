@@ -1,1 +1,0 @@
---installroot /run/install -y --nogpgcheck install yum initscripts passwd rsyslog vim-minimal openssh-server openssh-clients dhclient chkconfig rootfiles policycoreutils fedora-release fedora-repos
